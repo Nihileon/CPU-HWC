@@ -1,0 +1,9 @@
+Fitter Status : Successful - Mon Apr 29 20:11:47 2019
+Quartus II Version : 9.1 Build 222 10/21/2009 SJ Full Version
+Revision Name : HWC
+Top-level Entity Name : HWC
+Family : MAX7000S
+Device : EPM7128SLC84-15
+Timing Models : Final
+Total macrocells : 29 / 128 ( 23 % )
+Total pins : 45 / 68 ( 66 % )
